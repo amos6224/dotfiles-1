@@ -110,7 +110,7 @@
   default = upstream
 [core]
   autocrlf = false
-  editor = vim
+	editor = Vim
   excludesfile = ~/.yadr/git/gitignore
 [advice]
   statusHints = false
@@ -125,3 +125,6 @@
   enabled = true
 [include]
   path = .gitconfig.user
+[user]
+	name = Jeff
+	email = amos6224@gmail.com
